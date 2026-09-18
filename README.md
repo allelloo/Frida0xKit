@@ -17,19 +17,5 @@ The project is designed as a growing toolbox rather than a collection of one-off
 * Runtime DEX and native analysis
 * Reusable Frida helpers and templates
 
-## Project Structure
-
-```text
-Frida0xKit/
-├── java/
-├── native/
-├── network/
-├── ssl/
-├── anti-debug/
-├── dumping/
-├── utilities/
-├── examples/
-└── docs/
-```
 
 More tools and modules will be added as the toolkit evolves.
